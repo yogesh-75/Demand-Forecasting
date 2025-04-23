@@ -112,3 +112,7 @@ print("\n✅ Files generated:")
 print("- detailed_predictions.csv")
 print("- forecast_summary.csv")
 print("- inventory_insights.csv")
+
+
+
+#code completed
