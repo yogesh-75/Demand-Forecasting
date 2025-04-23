@@ -1,0 +1,94 @@
+sku_id,store_id,month_year,insight
+100,1.0,2024-03,🔺 Increase production for SKU 100 in Store 1 for 2024-03 due to high forecasted demand.
+101,1.0,2024-03,🔺 Increase production for SKU 101 in Store 1 for 2024-03 due to high forecasted demand.
+102,1.0,2024-02,🔺 Increase production for SKU 102 in Store 1 for 2024-02 due to high forecasted demand.
+103,1.0,2024-03,🔺 Increase production for SKU 103 in Store 1 for 2024-03 due to high forecasted demand.
+104,1.0,2024-01,🔺 Increase production for SKU 104 in Store 1 for 2024-01 due to high forecasted demand.
+104,1.0,2024-03,🔺 Increase production for SKU 104 in Store 1 for 2024-03 due to high forecasted demand.
+105,1.0,2024-01,🔺 Increase production for SKU 105 in Store 1 for 2024-01 due to high forecasted demand.
+106,1.0,2024-01,🔺 Increase production for SKU 106 in Store 1 for 2024-01 due to high forecasted demand.
+106,1.0,2024-03,🔺 Increase production for SKU 106 in Store 1 for 2024-03 due to high forecasted demand.
+108,1.0,2024-01,🔺 Increase production for SKU 108 in Store 1 for 2024-01 due to high forecasted demand.
+108,1.0,2024-03,🔺 Increase production for SKU 108 in Store 1 for 2024-03 due to high forecasted demand.
+101,2.0,2024-01,🔺 Increase production for SKU 101 in Store 2 for 2024-01 due to high forecasted demand.
+102,2.0,2024-02,🔺 Increase production for SKU 102 in Store 2 for 2024-02 due to high forecasted demand.
+103,2.0,2024-04,🔺 Increase production for SKU 103 in Store 2 for 2024-04 due to high forecasted demand.
+104,2.0,2024-02,🔺 Increase production for SKU 104 in Store 2 for 2024-02 due to high forecasted demand.
+105,2.0,2024-01,🔺 Increase production for SKU 105 in Store 2 for 2024-01 due to high forecasted demand.
+105,2.0,2024-02,🔺 Increase production for SKU 105 in Store 2 for 2024-02 due to high forecasted demand.
+105,2.0,2024-03,🔺 Increase production for SKU 105 in Store 2 for 2024-03 due to high forecasted demand.
+108,2.0,2024-02,🔺 Increase production for SKU 108 in Store 2 for 2024-02 due to high forecasted demand.
+108,2.0,2024-03,🔺 Increase production for SKU 108 in Store 2 for 2024-03 due to high forecasted demand.
+109,2.0,2024-01,🔺 Increase production for SKU 109 in Store 2 for 2024-01 due to high forecasted demand.
+101,3.0,2024-01,🔺 Increase production for SKU 101 in Store 3 for 2024-01 due to high forecasted demand.
+101,3.0,2024-02,🔺 Increase production for SKU 101 in Store 3 for 2024-02 due to high forecasted demand.
+102,3.0,2024-01,🔺 Increase production for SKU 102 in Store 3 for 2024-01 due to high forecasted demand.
+103,3.0,2024-01,🔺 Increase production for SKU 103 in Store 3 for 2024-01 due to high forecasted demand.
+103,3.0,2024-02,🔺 Increase production for SKU 103 in Store 3 for 2024-02 due to high forecasted demand.
+103,3.0,2024-03,🔺 Increase production for SKU 103 in Store 3 for 2024-03 due to high forecasted demand.
+103,3.0,2024-04,🔺 Increase production for SKU 103 in Store 3 for 2024-04 due to high forecasted demand.
+104,3.0,2024-03,🔺 Increase production for SKU 104 in Store 3 for 2024-03 due to high forecasted demand.
+105,3.0,2024-02,🔺 Increase production for SKU 105 in Store 3 for 2024-02 due to high forecasted demand.
+107,3.0,2024-01,🔺 Increase production for SKU 107 in Store 3 for 2024-01 due to high forecasted demand.
+107,3.0,2024-02,🔺 Increase production for SKU 107 in Store 3 for 2024-02 due to high forecasted demand.
+108,3.0,2024-01,🔺 Increase production for SKU 108 in Store 3 for 2024-01 due to high forecasted demand.
+108,3.0,2024-03,🔺 Increase production for SKU 108 in Store 3 for 2024-03 due to high forecasted demand.
+109,3.0,2024-01,🔺 Increase production for SKU 109 in Store 3 for 2024-01 due to high forecasted demand.
+109,3.0,2024-04,🔺 Increase production for SKU 109 in Store 3 for 2024-04 due to high forecasted demand.
+100,4.0,2024-02,🔺 Increase production for SKU 100 in Store 4 for 2024-02 due to high forecasted demand.
+100,4.0,2024-03,🔺 Increase production for SKU 100 in Store 4 for 2024-03 due to high forecasted demand.
+101,4.0,2024-01,🔺 Increase production for SKU 101 in Store 4 for 2024-01 due to high forecasted demand.
+101,4.0,2024-03,🔺 Increase production for SKU 101 in Store 4 for 2024-03 due to high forecasted demand.
+102,4.0,2024-01,🔺 Increase production for SKU 102 in Store 4 for 2024-01 due to high forecasted demand.
+102,4.0,2024-03,🔺 Increase production for SKU 102 in Store 4 for 2024-03 due to high forecasted demand.
+103,4.0,2024-03,🔺 Increase production for SKU 103 in Store 4 for 2024-03 due to high forecasted demand.
+104,4.0,2024-02,🔺 Increase production for SKU 104 in Store 4 for 2024-02 due to high forecasted demand.
+104,4.0,2024-03,🔺 Increase production for SKU 104 in Store 4 for 2024-03 due to high forecasted demand.
+104,4.0,2024-04,🔺 Increase production for SKU 104 in Store 4 for 2024-04 due to high forecasted demand.
+105,4.0,2024-02,🔺 Increase production for SKU 105 in Store 4 for 2024-02 due to high forecasted demand.
+106,4.0,2024-03,🔺 Increase production for SKU 106 in Store 4 for 2024-03 due to high forecasted demand.
+107,4.0,2024-01,🔺 Increase production for SKU 107 in Store 4 for 2024-01 due to high forecasted demand.
+107,4.0,2024-02,🔺 Increase production for SKU 107 in Store 4 for 2024-02 due to high forecasted demand.
+108,4.0,2024-01,🔺 Increase production for SKU 108 in Store 4 for 2024-01 due to high forecasted demand.
+108,4.0,2024-02,🔺 Increase production for SKU 108 in Store 4 for 2024-02 due to high forecasted demand.
+109,4.0,2024-01,🔺 Increase production for SKU 109 in Store 4 for 2024-01 due to high forecasted demand.
+101,5.0,2024-01,🔺 Increase production for SKU 101 in Store 5 for 2024-01 due to high forecasted demand.
+103,5.0,2024-01,🔺 Increase production for SKU 103 in Store 5 for 2024-01 due to high forecasted demand.
+104,5.0,2024-01,🔺 Increase production for SKU 104 in Store 5 for 2024-01 due to high forecasted demand.
+104,5.0,2024-02,🔺 Increase production for SKU 104 in Store 5 for 2024-02 due to high forecasted demand.
+104,5.0,2024-03,🔺 Increase production for SKU 104 in Store 5 for 2024-03 due to high forecasted demand.
+107,5.0,2024-03,🔺 Increase production for SKU 107 in Store 5 for 2024-03 due to high forecasted demand.
+108,5.0,2024-03,🔺 Increase production for SKU 108 in Store 5 for 2024-03 due to high forecasted demand.
+101,1.0,2024-04,📉 Reduce stock of SKU 101 in Store 1 for 2024-04 due to low forecasted demand.
+103,1.0,2024-02,📉 Reduce stock of SKU 103 in Store 1 for 2024-02 due to low forecasted demand.
+108,1.0,2024-02,📉 Reduce stock of SKU 108 in Store 1 for 2024-02 due to low forecasted demand.
+100,2.0,2024-01,📉 Reduce stock of SKU 100 in Store 2 for 2024-01 due to low forecasted demand.
+101,2.0,2024-02,📉 Reduce stock of SKU 101 in Store 2 for 2024-02 due to low forecasted demand.
+103,2.0,2024-01,📉 Reduce stock of SKU 103 in Store 2 for 2024-01 due to low forecasted demand.
+104,2.0,2024-03,📉 Reduce stock of SKU 104 in Store 2 for 2024-03 due to low forecasted demand.
+109,2.0,2024-04,📉 Reduce stock of SKU 109 in Store 2 for 2024-04 due to low forecasted demand.
+100,3.0,2024-03,📉 Reduce stock of SKU 100 in Store 3 for 2024-03 due to low forecasted demand.
+108,3.0,2024-02,📉 Reduce stock of SKU 108 in Store 3 for 2024-02 due to low forecasted demand.
+103,5.0,2024-04,📉 Reduce stock of SKU 103 in Store 5 for 2024-04 due to low forecasted demand.
+105,5.0,2024-02,📉 Reduce stock of SKU 105 in Store 5 for 2024-02 due to low forecasted demand.
+107,5.0,2024-04,📉 Reduce stock of SKU 107 in Store 5 for 2024-04 due to low forecasted demand.
+100,,,
+100,,,📈 Sales of SKU 100.0 are higher during promotions - consider promotional pricing.
+101,,,
+101,,,📈 Sales of SKU 101.0 are higher during promotions - consider promotional pricing.
+102,,,
+102,,,📈 Sales of SKU 102.0 are higher during promotions - consider promotional pricing.
+103,,,
+103,,,📈 Sales of SKU 103.0 are higher during promotions - consider promotional pricing.
+104,,,
+104,,,📈 Sales of SKU 104.0 are higher during promotions - consider promotional pricing.
+105,,,
+105,,,📈 Sales of SKU 105.0 are higher during promotions - consider promotional pricing.
+106,,,
+106,,,📈 Sales of SKU 106.0 are higher during promotions - consider promotional pricing.
+107,,,
+107,,,📈 Sales of SKU 107.0 are higher during promotions - consider promotional pricing.
+108,,,
+108,,,📈 Sales of SKU 108.0 are higher during promotions - consider promotional pricing.
+109,,,
+109,,,📈 Sales of SKU 109.0 are higher during promotions - consider promotional pricing.
